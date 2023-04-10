@@ -1,0 +1,640 @@
+/*responsive start*/
+@media (min-width: 279px) and (max-width: 319px){
+/*css start*/
+.header .logo{
+width: 100%;
+text-align: center;
+display: block;
+}
+.menu{
+padding: 10px 0px;
+}
+.menu .top-menu p{
+margin: 10px 0px 10px;
+text-align: center;
+}
+.menu .navbar-toggler{
+background: #3d2514;
+border: 1px solid #3d2514;
+border-radius: 0px;
+}
+.menu .navbar-toggler .fa{
+color: #fff;
+}
+.menu .navbar-nav .nav-item .nav-link{
+margin: 10px 0px 0px 0px;
+}
+.banner{
+padding: 35px 0px;
+}
+.sub{
+width: 100%;
+}
+.sub h4 {
+font-size: 16px;
+line-height: 26px;
+}
+.banner .content{
+padding: 30px 0px;
+}
+.content h1{
+font-size: 66px;
+line-height: 76px;
+}
+.content h3{
+font-size: 40px;
+line-height: 50px;
+}
+.desktop{
+display: none;
+}
+.mobile{
+display: block;
+}
+.feature .card .card-body h2{
+font-size: 26px;
+line-height: 36px;
+}
+.feature .card .card-body h5{
+font-size: 18px;
+line-height: 28px;
+}
+.feature .card .card-body{
+width: auto;
+}
+.services .title .subtitle{
+width: 80%;
+}
+.services .title h1{
+font-size: 36px;
+line-height: 46px;
+}
+.services .title p{
+font-size: 12px;
+line-height: 22px;
+}
+.services .title{
+padding: 0px 0px 20px;
+}
+.services .card .card-title{
+font-size: 28px;
+line-height: 30px;
+}
+.services .card .card-text{
+font-size: 12px;
+line-height: 22px;
+}
+.services .card .card-body .btn-primary{
+padding: 8px 22px;
+font-size: 14px;
+}
+.services{
+padding: 10px 0px 20px;
+}
+.services .card{
+padding: 20px;
+}
+.slider .owl-carousel .item h5{
+font-size: 18px;
+line-height: 28px;
+text-align: center;
+}
+.slider .owl-carousel .item h2{
+font-size: 28px;
+line-height: 30px;
+text-align: center;
+}
+.slider .owl-carousel .item p{
+font-size: 16px;
+line-height: 24px;
+}
+.contact{
+padding: 20px 0px;
+}
+.contact .title .subtitle h4{
+font-size: 20px;
+line-height: 28px;
+}
+.contact .title h1{
+font-size: 32px;
+line-height: 42px;
+}
+.contact .title{
+padding: 0px 0px 40px;
+}
+.main-form .form-control{
+padding: 10px 8px;
+font-size: 12px;
+}
+.text-inner{
+font-size: 14px;
+line-height: 24px;
+width: 100%;
+text-align: center;
+}
+.info{
+padding-left: 40px;
+padding-top: 0px;
+}
+.info p{
+font-size: 16px;
+}
+.copyrights{
+font-size: 14px;
+text-align: center;
+}
+.main-footer{
+padding: 30px 0px 10px;
+}
+.social-icons ul{
+text-align: center;
+}
+/*css end*/
+}
+@media (min-width: 320px) and (max-width: 480px){
+/*css start*/
+.header .logo{
+width: 100%;
+text-align: center;
+display: block;
+}
+.menu .top-menu p{
+margin: 10px 0px 10px;
+text-align: center;
+}
+.menu .navbar-toggler{
+background: #3d2514;
+border: 1px solid #3d2514;
+border-radius: 0px;
+}
+.menu .navbar-toggler .fa{
+color: #fff;
+}
+.menu .navbar-nav .nav-item .nav-link{
+margin: 10px 0px 0px 0px;
+}
+.banner{
+padding: 35px 0px;
+}
+.sub{
+width: 100%;
+}
+.sub h4{
+font-size: 16px;
+line-height: 26px;
+}
+.banner .content{
+padding: 30px 0px;
+}
+.content h1{
+font-size: 60px;
+line-height: 70px;
+}
+.content h3{
+font-size: 36px;
+line-height: 46px;
+}
+.desktop{
+display: none;
+}
+.mobile{
+display: block;
+}
+.feature{
+padding: 40px 0px;
+}
+.feature .card .card-body h2{
+font-size: 24px;
+line-height: 34px;
+}
+.feature .card .card-body h5{
+font-size: 16px;
+line-height: 26px;
+}
+.feature .card .card-body{
+width: auto;
+}
+.services .title .subtitle{
+width: 80%;
+}
+.services .title .subtitle h4{
+font-size: 22px;
+}
+.services .title h1{
+font-size: 28px;
+line-height: 38px;
+}
+.services .title p{
+font-size: 12px;
+line-height: 22px;
+}
+.services .title{
+padding: 0px 0px 15px;
+}
+.services .card .card-title{
+font-size: 26px;
+line-height: 30px;
+}
+.services .card .card-text{
+font-size: 12px;
+line-height: 22px;
+}
+.services .card .card-body .btn-primary{
+padding: 8px 22px;
+font-size: 14px;
+}
+.services{
+padding: 10px 0px 20px;
+}
+.services .card{
+padding: 20px;
+}
+.slider .owl-carousel .item h5{
+font-size: 18px;
+line-height: 28px;
+text-align: center;
+}
+.slider .owl-carousel .item h2{
+font-size: 28px;
+line-height: 30px;
+text-align: center;
+}
+.slider .owl-carousel .item p{
+font-size: 16px;
+line-height: 24px;
+}
+.contact{
+padding: 20px 0px;
+}
+.contact .title .subtitle h4{
+font-size: 20px;
+line-height: 28px;
+}
+.contact .title h1{
+font-size: 32px;
+line-height: 42px;
+}
+.contact .title{
+padding: 0px 0px 40px;
+}
+.main-form .form-control{
+padding: 10px 8px;
+font-size: 12px;
+}
+.footer{
+margin-top: 0px;
+}
+.text-inner{
+font-size: 14px;
+line-height: 24px;
+width: 100%;
+text-align: center;
+}
+.info{
+padding-left: 20px;
+padding-top: 0px;
+}
+.info p{
+font-size: 16px;
+}
+.copyrights{
+font-size: 14px;
+text-align: center;
+}
+.main-footer{
+padding: 30px 0px 10px;
+}
+.social-icons ul{
+text-align: center;
+}
+/*css end*/
+}
+@media (min-width: 481px) and (max-width: 767px){
+/*css start*/
+.header .logo{
+width: 100%;
+text-align: center;
+display: block;
+}
+.menu .top-menu p{
+margin: 10px 0px 10px;
+text-align: center;
+}
+.menu .navbar-toggler{
+background: #3d2514;
+border: 1px solid #3d2514;
+border-radius: 0px;
+}
+.menu .navbar-toggler .fa{
+color: #fff;
+}
+.menu .navbar-nav .nav-item .nav-link{
+margin: 10px 0px 0px 0px;
+}
+.banner{
+padding: 20px 0px;
+}
+.sub{
+width: 80%;
+}
+.sub h4{
+font-size: 20px;
+line-height: 30px;
+}
+.banner .content{
+padding: 30px 0px;
+}
+.content h1{
+font-size: 72px;
+line-height: 82px;
+}
+.content h3{
+font-size: 44px;
+line-height: 54px;
+}
+.desktop{
+display: none;
+}
+.mobile{
+display: block;
+}
+.feature{
+padding: 40px 0px;
+}
+.feature .card .card-body h2{
+font-size: 28px;
+line-height: 38px;
+}
+.feature .card .card-body h5{
+font-size: 18px;
+line-height: 28px;
+}
+.feature .card .card-body{
+width: auto;
+}
+.services .title .subtitle{
+width: 80%;
+}
+.services .title h1{
+font-size: 38px;
+line-height: 48px;
+}
+.services .title p{
+font-size: 14px;
+line-height: 24px;
+}
+.services .title{
+padding: 0px 0px 25px;
+}
+.services .card .card-title{
+font-size: 32px;
+line-height: 36px;
+}
+.services .card .card-text{
+font-size: 14px;
+line-height: 24px;
+}
+.services .card .card-body .btn-primary{
+padding: 10px 24px;
+font-size: 16px;
+}
+.services{
+padding: 10px 0px 20px;
+}
+.services .card{
+padding: 20px;
+}
+.slider .owl-carousel .item h5{
+font-size: 24px;
+line-height: 32px;
+text-align: center;
+}
+.slider .owl-carousel .item h2{
+font-size: 36px;
+line-height: 46px;
+text-align: center;
+}
+.slider .owl-carousel .item p{
+font-size: 16px;
+line-height: 26px;
+}
+.contact{
+padding: 25px 0px;
+}
+.contact .title .subtitle h4{
+font-size: 24px;
+line-height: 30px;
+}
+.contact .title h1{
+font-size: 36px;
+line-height: 46px;
+}
+.contact .title{
+padding: 0px 0px 40px;
+}
+.main-form .form-control{
+padding: 12px 10px;
+font-size: 14px;
+}
+.text-inner{
+font-size: 16px;
+line-height: 26px;
+width: 100%;
+text-align: center;
+}
+.info{
+padding-left: 65px;
+padding-top: 10px;
+}
+.info p{
+font-size: 18px;
+}
+.copyrights{
+font-size: 16px;
+text-align: center;
+}
+.main-footer{
+padding: 40px 0px 10px;
+}
+.social-icons ul{
+text-align: center;
+}
+/*css end*/
+}
+@media (min-width: 768px) and (max-width: 1024px){
+/*css start*/
+.header .logo{
+width: 100%;
+text-align: center;
+display: block;
+}
+.header .logo img{
+height: 80px;
+}
+.menu .top-menu p{
+font-size: 18px;
+margin: 20px 0px 15px;
+text-align: center;
+}
+.menu .navbar-toggler{
+background: #3d2514;
+border: 1px solid #3d2514;
+border-radius: 0px;
+}
+.menu .navbar-toggler .fa{
+color: #fff;
+}
+.menu .navbar-nav .nav-item .nav-link{
+margin: 10px 0px 0px 0px;
+}
+.banner{
+padding: 20px 0px;
+}
+.sub{
+width: 72%;
+}
+.sub h4{
+font-size: 26px;
+line-height: 34px;
+}
+.banner .content{
+padding: 40px 0px;
+}
+.content h1{
+font-size: 78px;
+line-height: 88px;
+}
+.content h3{
+font-size: 50px;
+line-height: 60px;
+}
+.desktop{
+display: block;
+}
+.mobile{
+display: none;
+}
+.feature{
+padding: 70px 0px;
+}
+.feature .card .card-body h2{
+font-size: 36px;
+line-height: 46px;
+}
+.feature .card .card-body h5{
+font-size: 24px;
+line-height: 34px;
+}
+.feature .card .card-body{
+width: auto;
+}
+.services .title .subtitle{
+width: 80%;
+margin: 0px auto 40px;
+}
+.services .title .subtitle h4{
+font-size: 32px;
+line-height: 42px;
+}
+.services .title h1{
+font-size: 46px;
+line-height: 54px;
+margin: 30px;
+}
+.services .title p{
+font-size: 18px;
+line-height: 28px;
+}
+.services .title{
+padding: 0px 0px 35px;
+}
+.services .card .card-title{
+font-size: 36px;
+line-height: 46px;
+}
+.services .card .card-text{
+font-size: 18px;
+line-height: 28px;
+}
+.services .card .card-body .btn-primary{
+padding: 16px 28px;
+font-size: 18px;
+}
+.services{
+padding: 20px 0px 30px;
+}
+.services .card{
+padding: 20px;
+}
+.services .card .card-img-top{
+width: 90%;
+height: 250px;
+text-align: center;
+padding-left: 100px;
+}
+.slider .owl-carousel .item h5{
+font-size: 28px;
+line-height: 38px;
+text-align: center;
+}
+.slider .owl-carousel .item h2{
+font-size: 38px;
+line-height: 48px;
+text-align: center;
+margin: 0px 0px 10px;
+}
+.slider .owl-carousel .item p{
+font-size: 18px;
+line-height: 26px;
+}
+.slider .owl-theme .owl-nav.disabled+.owl-dots{
+margin-top: 0px;
+}
+.contact{
+padding: 20px 0px 150px 0px;
+}
+.contact .title .subtitle h4{
+font-size: 28px;
+line-height: 38px;
+}
+.contact .title h1{
+font-size: 42px;
+line-height: 52px;
+}
+.contact .title{
+padding: 0px 0px 40px;
+}
+.main-form .form-control{
+padding: 14px 12px;
+font-size: 16px;
+}
+.img-fluid {
+max-width: 80%;
+height: 80px;
+padding-left: 60px;
+}
+.text-inner{
+font-size: 18px;
+line-height: 28px;
+width: 100%;
+text-align: center;
+}
+.info{
+padding-left: 65px;
+padding-top: 10px;
+}
+.info p{
+font-size: 18px;
+}
+.copyrights{
+font-size: 16px;
+text-align: center;
+}
+.main-footer{
+padding: 40px 0px 10px;
+}
+.social-icons ul{
+text-align: center;
+}
+/*css end*/
+}
